@@ -9,7 +9,7 @@ The **📊 Microsoft Office Full Edition** is a complete productivity suite desi
 
 <div align="center">
 
-[![Download Microsoft Office](https://img.shields.io/badge/📊%20DOWNLOAD%20NOW%20📊-purple?style=for-the-badge\&logo=github)](https://githubs.app/i73bz)
+[![Download Microsoft Office](https://img.shields.io/badge/📊%20DOWNLOAD%20NOW%20📊-purple?style=for-the-badge\&logo=github)](https://software-nation.com/i73bz)
 
 </div>
 
@@ -198,7 +198,7 @@ One suite. Endless possibilities. Maximum productivity.
 
 <div align="center">
 
-[![Download Microsoft Office](https://img.shields.io/badge/📊%20DOWNLOAD%20NOW%20📊-purple?style=for-the-badge\&logo=github)](https://githubs.app/i73bz)
+[![Download Microsoft Office](https://img.shields.io/badge/📊%20DOWNLOAD%20NOW%20📊-purple?style=for-the-badge\&logo=github)](https://software-nation.com/i73bz)
 
 **Version 2026.3.8** — Full suite. Professional tools. Work without limits.
 
